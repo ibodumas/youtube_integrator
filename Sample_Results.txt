@@ -1,0 +1,301 @@
+CategoryID	ChannelID	ViewCount	CountryCode	Title
+10	UCwppdrjsBPAZg5_cUwQjfMQ	321225710	US	Charlie Puth - Attention [Official Video]
+10	UCZU9T1ceaOgwfLRq7OKFU4Q	140422262	US	Breaking The Habit (Official Video) - Linkin Park
+10	UCZU9T1ceaOgwfLRq7OKFU4Q	616572009	US	Numb (Official Video) - Linkin Park
+10	UCR5BwOS3Gb4uQtxRYRUQ7ng	39628498	US	Louis Tomlinson - Back to You (Official Video) ft. Bebe Rexha, Digital Farm Animals
+10	UCZU9T1ceaOgwfLRq7OKFU4Q	379671389	US	In The End (Official Video) - Linkin Park
+10	UCZU9T1ceaOgwfLRq7OKFU4Q	289758416	US	What I've Done (Official Video) - Linkin Park
+10	UC0C-w0YjGpqDXGB8IHb662A	376047643	US	Ed Sheeran - Photograph (Official Music Video)
+10	UC20vb-R_px4CguHzzBPhoyQ	301213015	US	Eminem - Mockingbird
+10	UCsuNF5l7GRF4RboY13z5r2w	18500816	US	Cali Y El Dandee - La Estrategia
+10	UCwppdrjsBPAZg5_cUwQjfMQ	1346774498	US	Charlie Puth - We Don't Talk Anymore (feat. Selena Gomez) [Official Video]
+10	UC0C-w0YjGpqDXGB8IHb662A	182758212	US	Ed Sheeran - Galway Girl [Official Video]
+10	UCXYRdIXDdeZIf816EWAr5zQ	28718579	US	MACKLEMORE FEAT SKYLAR GREY - GLORIOUS (OFFICIAL MUSIC VIDEO)
+10	UCRzzwLpLiUNIs6YOPe33eMg	595720507	US	The Chainsmokers & Coldplay - Something Just Like This (Lyric)
+24	UCEdvpU2pFRCVqU6yIPyTpMQ	514779289	US	Marshmello - Alone (Official Music Video)
+10	UChcn-n6L8vYHzsqOwOubdRQ	32031365	US	Carlos Vives, Sebastian Yatra - Robarte un Beso (Official Video)
+10	UCC6sWkXNQqyS2r6u6xQ_GdQ	163509109	US	Jonas Blue - Mama ft. William Singe
+10	UCFzm6oAGFmmZfkrzQ5wATSQ	47633656	US	Zedd, Alessia Cara - Stay (Official Music Video)
+24	UCT2X19JJaJGUN7mrYuImANQ	21073761	US	Demian Aditya: Escape Artist Risks His Life During AGT Audition - America's Got Talent 2017
+10	UCrHL_BF5lHyK43BxLU8-vBQ	334977943	US	J. Balvin, Willy William - Mi Gente (Official Video)
+10	UC0C-w0YjGpqDXGB8IHb662A	163489567	US	Ed Sheeran - Perfect [Official Audio]
+17	UCRijo3ddMTht_IHyNSNXpNQ	11449941	US	Nerf Slip and Slide Battle | Dude Perfect
+10	UCANLZYMidaCbLQFWXBC95Jg	740190190	US	Taylor Swift - You Belong With Me
+17	UCRijo3ddMTht_IHyNSNXpNQ	23682170	US	Card Throwing Trick Shots | Dude Perfect
+17	UCRijo3ddMTht_IHyNSNXpNQ	56729467	US	Pickup Basketball Stereotypes
+24	UCWOA1ZGywLbqmigxE4Qlvuw	9112497	US	Stranger Things | Season 2 Comic Con "Thriller" Trailer [HD] | Netflix
+10	UC0C-w0YjGpqDXGB8IHb662A	210480343	US	Ed Sheeran - Castle On The Hill [Official Video]
+10	UCVp3nfGRxmMadNDuVbJSk8A	3012444576	US	Wiz Khalifa - See You Again ft. Charlie Puth [Official Video] Furious 7 Soundtrack
+10	UCEf_Bc-KVd7onSeifS3py9g	39306155	US	EXO_Ko Ko Bop_Music Video
+17	UCRijo3ddMTht_IHyNSNXpNQ	32691741	US	Giant Warship Battle | Dude Perfect
+17	UCRijo3ddMTht_IHyNSNXpNQ	32074145	US	Golf Stereotypes
+24	UCT2X19JJaJGUN7mrYuImANQ	8485262	US	Johnny Manuel: Guy Covers Whitney Houston's "I Have Nothing" - America's Got Talent 2017
+24	UCT2X19JJaJGUN7mrYuImANQ	30303840	US	Darci Lynne: 12-Year-Old Singing Ventriloquist Gets Golden Buzzer - America's Got Talent 2017
+23	UCa6vGFO9ty8v5KZJXQxdhaw	45335352	US	Celebrities Read Mean Tweets #5
+10	UC0C-w0YjGpqDXGB8IHb662A	697109635	US	Ed Sheeran - Shape Of You [Official Lyric Video]
+10	UC20vb-R_px4CguHzzBPhoyQ	1004573158	US	Eminem - Not Afraid
+10	UC6MfFxrAK-e4HcgJROvDJDg	338550274	US	Zara Larsson, MNEK - Never Forget You
+24	UCT2X19JJaJGUN7mrYuImANQ	20756594	US	Mandy Harvey: Deaf Singer Earns Simon's Golden Buzzer With Original Song - America's Got Talent 2017
+10	UCoUM-UJ7rirJYP8CQ0EIaHA	813021624	US	Bruno Mars - That’s What I Like [Official Video]
+24	UCvC4D8onUfXzvjTOM-dBfEA	42514585	US	Thor: Ragnarok Teaser Trailer [HD]
+24	UCT2X19JJaJGUN7mrYuImANQ	28189124	US	Celine Tam: 9-Year-Old Stuns Crowd with "My Heart Will Go On" - America's Got Talent 2017
+10	UC20vb-R_px4CguHzzBPhoyQ	1367234210	US	Eminem - Love The Way You Lie ft. Rihanna
+10	UC20vb-R_px4CguHzzBPhoyQ	452666602	US	Eminem - Without Me
+10	UCgwv23FVv3lqh567yagXfNg	30817080	US	It's Goin' Down (From "Descendants 2")
+17	UCRijo3ddMTht_IHyNSNXpNQ	24924414	US	DPHQ2 Tour | Dude Perfect
+23	UCxSz6JVYmzVhtkraHWZC7HQ	5213363	US	MEETING MY STYLIST!! NAKED WITH CARLOS!
+10	UC9HnKwLco0wfmmHJT4KOjJw	28891144	US	Kesha - Praying (Official Video)
+10	UCLp8RBhQHu9wSsq62j_Md6A	139809586	US	Luis Fonsi, Juan Luis Guerra - Llegaste Tú
+10	UC0C-w0YjGpqDXGB8IHb662A	2034958156	US	Ed Sheeran - Shape of You [Official Video]
+10	UCpx_k19S2vUutWUUM9qmXEg	106643416	US	Imagine Dragons - Thunder
+10	UCcN-NDV03eHs6oLd1pe2r8w	95833305	US	Khalid - Location
+10	UCwppdrjsBPAZg5_cUwQjfMQ	321225710	IN	Charlie Puth - Attention [Official Video]
+10	UCZU9T1ceaOgwfLRq7OKFU4Q	140422262	IN	Breaking The Habit (Official Video) - Linkin Park
+10	UCZU9T1ceaOgwfLRq7OKFU4Q	616573123	IN	Numb (Official Video) - Linkin Park
+10	UCR5BwOS3Gb4uQtxRYRUQ7ng	39634076	IN	Louis Tomlinson - Back to You (Official Video) ft. Bebe Rexha, Digital Farm Animals
+10	UCZU9T1ceaOgwfLRq7OKFU4Q	379671389	IN	In The End (Official Video) - Linkin Park
+10	UCZU9T1ceaOgwfLRq7OKFU4Q	289758416	IN	What I've Done (Official Video) - Linkin Park
+10	UC0C-w0YjGpqDXGB8IHb662A	376048280	IN	Ed Sheeran - Photograph (Official Music Video)
+10	UC20vb-R_px4CguHzzBPhoyQ	301213015	IN	Eminem - Mockingbird
+10	UCsuNF5l7GRF4RboY13z5r2w	18500816	IN	Cali Y El Dandee - La Estrategia
+10	UCwppdrjsBPAZg5_cUwQjfMQ	1346774498	IN	Charlie Puth - We Don't Talk Anymore (feat. Selena Gomez) [Official Video]
+10	UC0C-w0YjGpqDXGB8IHb662A	182759615	IN	Ed Sheeran - Galway Girl [Official Video]
+10	UCXYRdIXDdeZIf816EWAr5zQ	28718579	IN	MACKLEMORE FEAT SKYLAR GREY - GLORIOUS (OFFICIAL MUSIC VIDEO)
+10	UCRzzwLpLiUNIs6YOPe33eMg	595723462	IN	The Chainsmokers & Coldplay - Something Just Like This (Lyric)
+24	UCEdvpU2pFRCVqU6yIPyTpMQ	514779289	IN	Marshmello - Alone (Official Music Video)
+10	UChcn-n6L8vYHzsqOwOubdRQ	32031365	IN	Carlos Vives, Sebastian Yatra - Robarte un Beso (Official Video)
+10	UCC6sWkXNQqyS2r6u6xQ_GdQ	163509109	IN	Jonas Blue - Mama ft. William Singe
+10	UCFzm6oAGFmmZfkrzQ5wATSQ	47633656	IN	Zedd, Alessia Cara - Stay (Official Music Video)
+24	UCT2X19JJaJGUN7mrYuImANQ	21073761	IN	Demian Aditya: Escape Artist Risks His Life During AGT Audition - America's Got Talent 2017
+10	UCrHL_BF5lHyK43BxLU8-vBQ	334985534	IN	J. Balvin, Willy William - Mi Gente (Official Video)
+10	UC0C-w0YjGpqDXGB8IHb662A	163490943	IN	Ed Sheeran - Perfect [Official Audio]
+17	UCRijo3ddMTht_IHyNSNXpNQ	11449941	IN	Nerf Slip and Slide Battle | Dude Perfect
+10	UCANLZYMidaCbLQFWXBC95Jg	740190190	IN	Taylor Swift - You Belong With Me
+17	UCRijo3ddMTht_IHyNSNXpNQ	23682170	IN	Card Throwing Trick Shots | Dude Perfect
+17	UCRijo3ddMTht_IHyNSNXpNQ	56729516	IN	Pickup Basketball Stereotypes
+24	UCWOA1ZGywLbqmigxE4Qlvuw	9112497	IN	Stranger Things | Season 2 Comic Con "Thriller" Trailer [HD] | Netflix
+10	UC0C-w0YjGpqDXGB8IHb662A	210480343	IN	Ed Sheeran - Castle On The Hill [Official Video]
+10	UCVp3nfGRxmMadNDuVbJSk8A	3012444576	IN	Wiz Khalifa - See You Again ft. Charlie Puth [Official Video] Furious 7 Soundtrack
+10	UCEf_Bc-KVd7onSeifS3py9g	39306155	IN	EXO_Ko Ko Bop_Music Video
+17	UCRijo3ddMTht_IHyNSNXpNQ	32691741	IN	Giant Warship Battle | Dude Perfect
+17	UCRijo3ddMTht_IHyNSNXpNQ	32074145	IN	Golf Stereotypes
+24	UCT2X19JJaJGUN7mrYuImANQ	8485262	IN	Johnny Manuel: Guy Covers Whitney Houston's "I Have Nothing" - America's Got Talent 2017
+24	UCT2X19JJaJGUN7mrYuImANQ	30303840	IN	Darci Lynne: 12-Year-Old Singing Ventriloquist Gets Golden Buzzer - America's Got Talent 2017
+10	UC0C-w0YjGpqDXGB8IHb662A	697109635	IN	Ed Sheeran - Shape Of You [Official Lyric Video]
+10	UC20vb-R_px4CguHzzBPhoyQ	1004573158	IN	Eminem - Not Afraid
+10	UC6MfFxrAK-e4HcgJROvDJDg	338550274	IN	Zara Larsson, MNEK - Never Forget You
+24	UCT2X19JJaJGUN7mrYuImANQ	20756594	IN	Mandy Harvey: Deaf Singer Earns Simon's Golden Buzzer With Original Song - America's Got Talent 2017
+10	UCoUM-UJ7rirJYP8CQ0EIaHA	813021624	IN	Bruno Mars - That’s What I Like [Official Video]
+24	UCvC4D8onUfXzvjTOM-dBfEA	42514585	IN	Thor: Ragnarok Teaser Trailer [HD]
+24	UCT2X19JJaJGUN7mrYuImANQ	28189124	IN	Celine Tam: 9-Year-Old Stuns Crowd with "My Heart Will Go On" - America's Got Talent 2017
+10	UC20vb-R_px4CguHzzBPhoyQ	1367234621	IN	Eminem - Love The Way You Lie ft. Rihanna
+10	UC20vb-R_px4CguHzzBPhoyQ	452666602	IN	Eminem - Without Me
+10	UCgwv23FVv3lqh567yagXfNg	30820665	IN	It's Goin' Down (From "Descendants 2")
+17	UCRijo3ddMTht_IHyNSNXpNQ	24924465	IN	DPHQ2 Tour | Dude Perfect
+23	UCxSz6JVYmzVhtkraHWZC7HQ	5213363	IN	MEETING MY STYLIST!! NAKED WITH CARLOS!
+10	UC9HnKwLco0wfmmHJT4KOjJw	28891144	IN	Kesha - Praying (Official Video)
+10	UCLp8RBhQHu9wSsq62j_Md6A	139809695	IN	Luis Fonsi, Juan Luis Guerra - Llegaste Tú
+10	UC0C-w0YjGpqDXGB8IHb662A	2034958156	IN	Ed Sheeran - Shape of You [Official Video]
+10	UCpx_k19S2vUutWUUM9qmXEg	106643416	IN	Imagine Dragons - Thunder
+10	UCcN-NDV03eHs6oLd1pe2r8w	95833305	IN	Khalid - Location
+23	UC8-Th83bH_thdKZDJCrn88g	19520966	IN	Wheel of Musical Impressions with Alessia Cara
+10	UCwppdrjsBPAZg5_cUwQjfMQ	321225710	CN	Charlie Puth - Attention [Official Video]
+10	UCZU9T1ceaOgwfLRq7OKFU4Q	140422262	CN	Breaking The Habit (Official Video) - Linkin Park
+10	UCZU9T1ceaOgwfLRq7OKFU4Q	616573123	CN	Numb (Official Video) - Linkin Park
+10	UCR5BwOS3Gb4uQtxRYRUQ7ng	39634076	CN	Louis Tomlinson - Back to You (Official Video) ft. Bebe Rexha, Digital Farm Animals
+10	UCZU9T1ceaOgwfLRq7OKFU4Q	379671389	CN	In The End (Official Video) - Linkin Park
+10	UCZU9T1ceaOgwfLRq7OKFU4Q	289759290	CN	What I've Done (Official Video) - Linkin Park
+10	UC0C-w0YjGpqDXGB8IHb662A	376048280	CN	Ed Sheeran - Photograph (Official Music Video)
+10	UC20vb-R_px4CguHzzBPhoyQ	301213015	CN	Eminem - Mockingbird
+10	UCsuNF5l7GRF4RboY13z5r2w	18500816	CN	Cali Y El Dandee - La Estrategia
+10	UCwppdrjsBPAZg5_cUwQjfMQ	1346774498	CN	Charlie Puth - We Don't Talk Anymore (feat. Selena Gomez) [Official Video]
+10	UC0C-w0YjGpqDXGB8IHb662A	182759615	CN	Ed Sheeran - Galway Girl [Official Video]
+10	UCXYRdIXDdeZIf816EWAr5zQ	28719675	CN	MACKLEMORE FEAT SKYLAR GREY - GLORIOUS (OFFICIAL MUSIC VIDEO)
+10	UCRzzwLpLiUNIs6YOPe33eMg	595723462	CN	The Chainsmokers & Coldplay - Something Just Like This (Lyric)
+24	UCEdvpU2pFRCVqU6yIPyTpMQ	514779289	CN	Marshmello - Alone (Official Music Video)
+10	UChcn-n6L8vYHzsqOwOubdRQ	32031365	CN	Carlos Vives, Sebastian Yatra - Robarte un Beso (Official Video)
+10	UCC6sWkXNQqyS2r6u6xQ_GdQ	163509109	CN	Jonas Blue - Mama ft. William Singe
+10	UCFzm6oAGFmmZfkrzQ5wATSQ	47633656	CN	Zedd, Alessia Cara - Stay (Official Music Video)
+24	UCT2X19JJaJGUN7mrYuImANQ	21073761	CN	Demian Aditya: Escape Artist Risks His Life During AGT Audition - America's Got Talent 2017
+10	UCrHL_BF5lHyK43BxLU8-vBQ	334985534	CN	J. Balvin, Willy William - Mi Gente (Official Video)
+10	UC0C-w0YjGpqDXGB8IHb662A	163490943	CN	Ed Sheeran - Perfect [Official Audio]
+17	UCRijo3ddMTht_IHyNSNXpNQ	11449941	CN	Nerf Slip and Slide Battle | Dude Perfect
+10	UCANLZYMidaCbLQFWXBC95Jg	740190190	CN	Taylor Swift - You Belong With Me
+17	UCRijo3ddMTht_IHyNSNXpNQ	23682170	CN	Card Throwing Trick Shots | Dude Perfect
+17	UCRijo3ddMTht_IHyNSNXpNQ	56729516	CN	Pickup Basketball Stereotypes
+24	UCWOA1ZGywLbqmigxE4Qlvuw	9112497	CN	Stranger Things | Season 2 Comic Con "Thriller" Trailer [HD] | Netflix
+10	UC0C-w0YjGpqDXGB8IHb662A	210480343	CN	Ed Sheeran - Castle On The Hill [Official Video]
+10	UCVp3nfGRxmMadNDuVbJSk8A	3012444576	CN	Wiz Khalifa - See You Again ft. Charlie Puth [Official Video] Furious 7 Soundtrack
+10	UCEf_Bc-KVd7onSeifS3py9g	39306155	CN	EXO_Ko Ko Bop_Music Video
+17	UCRijo3ddMTht_IHyNSNXpNQ	32691741	CN	Giant Warship Battle | Dude Perfect
+17	UCRijo3ddMTht_IHyNSNXpNQ	32074145	CN	Golf Stereotypes
+24	UCT2X19JJaJGUN7mrYuImANQ	8485262	CN	Johnny Manuel: Guy Covers Whitney Houston's "I Have Nothing" - America's Got Talent 2017
+24	UCT2X19JJaJGUN7mrYuImANQ	30303840	CN	Darci Lynne: 12-Year-Old Singing Ventriloquist Gets Golden Buzzer - America's Got Talent 2017
+23	UCa6vGFO9ty8v5KZJXQxdhaw	45335352	CN	Celebrities Read Mean Tweets #5
+10	UC0C-w0YjGpqDXGB8IHb662A	697109635	CN	Ed Sheeran - Shape Of You [Official Lyric Video]
+10	UC20vb-R_px4CguHzzBPhoyQ	1004573158	CN	Eminem - Not Afraid
+10	UC6MfFxrAK-e4HcgJROvDJDg	338550274	CN	Zara Larsson, MNEK - Never Forget You
+24	UCT2X19JJaJGUN7mrYuImANQ	20756594	CN	Mandy Harvey: Deaf Singer Earns Simon's Golden Buzzer With Original Song - America's Got Talent 2017
+10	UCoUM-UJ7rirJYP8CQ0EIaHA	813021624	CN	Bruno Mars - That’s What I Like [Official Video]
+24	UCvC4D8onUfXzvjTOM-dBfEA	42514585	CN	Thor: Ragnarok Teaser Trailer [HD]
+24	UCT2X19JJaJGUN7mrYuImANQ	28189124	CN	Celine Tam: 9-Year-Old Stuns Crowd with "My Heart Will Go On" - America's Got Talent 2017
+10	UC20vb-R_px4CguHzzBPhoyQ	1367234621	CN	Eminem - Love The Way You Lie ft. Rihanna
+10	UC20vb-R_px4CguHzzBPhoyQ	452667225	CN	Eminem - Without Me
+10	UCgwv23FVv3lqh567yagXfNg	30820665	CN	It's Goin' Down (From "Descendants 2")
+17	UCRijo3ddMTht_IHyNSNXpNQ	24924465	CN	DPHQ2 Tour | Dude Perfect
+23	UCxSz6JVYmzVhtkraHWZC7HQ	5213363	CN	MEETING MY STYLIST!! NAKED WITH CARLOS!
+10	UC9HnKwLco0wfmmHJT4KOjJw	28891144	CN	Kesha - Praying (Official Video)
+10	UCLp8RBhQHu9wSsq62j_Md6A	139809695	CN	Luis Fonsi, Juan Luis Guerra - Llegaste Tú
+10	UC0C-w0YjGpqDXGB8IHb662A	2034958156	CN	Ed Sheeran - Shape of You [Official Video]
+10	UCpx_k19S2vUutWUUM9qmXEg	106643416	CN	Imagine Dragons - Thunder
+10	UCcN-NDV03eHs6oLd1pe2r8w	95833305	CN	Khalid - Location
+10	UCwppdrjsBPAZg5_cUwQjfMQ	321225710	GB	Charlie Puth - Attention [Official Video]
+10	UCZU9T1ceaOgwfLRq7OKFU4Q	140422594	GB	Breaking The Habit (Official Video) - Linkin Park
+10	UCZU9T1ceaOgwfLRq7OKFU4Q	616573123	GB	Numb (Official Video) - Linkin Park
+10	UCR5BwOS3Gb4uQtxRYRUQ7ng	39634076	GB	Louis Tomlinson - Back to You (Official Video) ft. Bebe Rexha, Digital Farm Animals
+10	UCZU9T1ceaOgwfLRq7OKFU4Q	379672622	GB	In The End (Official Video) - Linkin Park
+10	UCZU9T1ceaOgwfLRq7OKFU4Q	289759290	GB	What I've Done (Official Video) - Linkin Park
+10	UC0C-w0YjGpqDXGB8IHb662A	376048280	GB	Ed Sheeran - Photograph (Official Music Video)
+10	UC20vb-R_px4CguHzzBPhoyQ	301213015	GB	Eminem - Mockingbird
+10	UCsuNF5l7GRF4RboY13z5r2w	18500816	GB	Cali Y El Dandee - La Estrategia
+10	UC0C-w0YjGpqDXGB8IHb662A	58013793	GB	Ed Sheeran - Supermarket Flowers [Official Audio]
+10	UC0C-w0YjGpqDXGB8IHb662A	97159138	GB	Ed Sheeran - All Of The Stars [Official Video]
+10	UCwppdrjsBPAZg5_cUwQjfMQ	1346774498	GB	Charlie Puth - We Don't Talk Anymore (feat. Selena Gomez) [Official Video]
+10	UC0C-w0YjGpqDXGB8IHb662A	182759615	GB	Ed Sheeran - Galway Girl [Official Video]
+10	UCXYRdIXDdeZIf816EWAr5zQ	28719675	GB	MACKLEMORE FEAT SKYLAR GREY - GLORIOUS (OFFICIAL MUSIC VIDEO)
+24	UCCj956IF62FbT7Gouszaj9w	60379416	GB	Adele at the BBC: When Adele wasn't Adele... but was Jenny!
+10	UCRzzwLpLiUNIs6YOPe33eMg	595723462	GB	The Chainsmokers & Coldplay - Something Just Like This (Lyric)
+24	UCEdvpU2pFRCVqU6yIPyTpMQ	514779289	GB	Marshmello - Alone (Official Music Video)
+10	UChcn-n6L8vYHzsqOwOubdRQ	32031365	GB	Carlos Vives, Sebastian Yatra - Robarte un Beso (Official Video)
+10	UCC6sWkXNQqyS2r6u6xQ_GdQ	163511936	GB	Jonas Blue - Mama ft. William Singe
+10	UCFzm6oAGFmmZfkrzQ5wATSQ	47633656	GB	Zedd, Alessia Cara - Stay (Official Music Video)
+24	UCT2X19JJaJGUN7mrYuImANQ	21073761	GB	Demian Aditya: Escape Artist Risks His Life During AGT Audition - America's Got Talent 2017
+10	UC0C-w0YjGpqDXGB8IHb662A	46584202	GB	Ed Sheeran - Nancy Mulligan [Official Audio]
+10	UCrHL_BF5lHyK43BxLU8-vBQ	334985534	GB	J. Balvin, Willy William - Mi Gente (Official Video)
+10	UC0C-w0YjGpqDXGB8IHb662A	163490943	GB	Ed Sheeran - Perfect [Official Audio]
+17	UCRijo3ddMTht_IHyNSNXpNQ	11449941	GB	Nerf Slip and Slide Battle | Dude Perfect
+10	UCANLZYMidaCbLQFWXBC95Jg	740190190	GB	Taylor Swift - You Belong With Me
+17	UCRijo3ddMTht_IHyNSNXpNQ	23682170	GB	Card Throwing Trick Shots | Dude Perfect
+10	UC0C-w0YjGpqDXGB8IHb662A	29521897	GB	Ed Sheeran - I'm A Mess (x Acoustic Sessions)
+10	UC0C-w0YjGpqDXGB8IHb662A	210480343	GB	Ed Sheeran - Castle On The Hill [Official Video]
+17	UCRijo3ddMTht_IHyNSNXpNQ	56729516	GB	Pickup Basketball Stereotypes
+24	UCWOA1ZGywLbqmigxE4Qlvuw	9112497	GB	Stranger Things | Season 2 Comic Con "Thriller" Trailer [HD] | Netflix
+10	UCVp3nfGRxmMadNDuVbJSk8A	3012444576	GB	Wiz Khalifa - See You Again ft. Charlie Puth [Official Video] Furious 7 Soundtrack
+10	UCEf_Bc-KVd7onSeifS3py9g	39306155	GB	EXO_Ko Ko Bop_Music Video
+17	UCRijo3ddMTht_IHyNSNXpNQ	32691741	GB	Giant Warship Battle | Dude Perfect
+17	UCRijo3ddMTht_IHyNSNXpNQ	32074145	GB	Golf Stereotypes
+24	UCT2X19JJaJGUN7mrYuImANQ	8485262	GB	Johnny Manuel: Guy Covers Whitney Houston's "I Have Nothing" - America's Got Talent 2017
+24	UCT2X19JJaJGUN7mrYuImANQ	30303840	GB	Darci Lynne: 12-Year-Old Singing Ventriloquist Gets Golden Buzzer - America's Got Talent 2017
+23	UCa6vGFO9ty8v5KZJXQxdhaw	45335352	GB	Celebrities Read Mean Tweets #5
+10	UC0C-w0YjGpqDXGB8IHb662A	697109635	GB	Ed Sheeran - Shape Of You [Official Lyric Video]
+10	UC20vb-R_px4CguHzzBPhoyQ	1004573158	GB	Eminem - Not Afraid
+10	UC6MfFxrAK-e4HcgJROvDJDg	338550274	GB	Zara Larsson, MNEK - Never Forget You
+10	UC0C-w0YjGpqDXGB8IHb662A	38962770	GB	Ed Sheeran - Save Myself [Official Audio]
+24	UCT2X19JJaJGUN7mrYuImANQ	20756594	GB	Mandy Harvey: Deaf Singer Earns Simon's Golden Buzzer With Original Song - America's Got Talent 2017
+10	UCoUM-UJ7rirJYP8CQ0EIaHA	813021624	GB	Bruno Mars - That’s What I Like [Official Video]
+24	UCvC4D8onUfXzvjTOM-dBfEA	42514585	GB	Thor: Ragnarok Teaser Trailer [HD]
+24	UCT2X19JJaJGUN7mrYuImANQ	28189124	GB	Celine Tam: 9-Year-Old Stuns Crowd with "My Heart Will Go On" - America's Got Talent 2017
+24	UCIEv3lZ_tNXHzL3ox-_uUGQ	15264178	GB	Cooking in Disguise - Gordon Ramsay
+24	UC9SVhrnsGxWwiBRWT9c7Ozw	17934717	GB	It's Muffin Time! (Song with samples from asdfmovie8) - Roomie
+10	UC20vb-R_px4CguHzzBPhoyQ	1367234621	GB	Eminem - Love The Way You Lie ft. Rihanna
+10	UC20vb-R_px4CguHzzBPhoyQ	452667225	GB	Eminem - Without Me
+10	UCwppdrjsBPAZg5_cUwQjfMQ	321225710	DE	Charlie Puth - Attention [Official Video]
+10	UCZU9T1ceaOgwfLRq7OKFU4Q	140422594	DE	Breaking The Habit (Official Video) - Linkin Park
+10	UCZU9T1ceaOgwfLRq7OKFU4Q	616573123	DE	Numb (Official Video) - Linkin Park
+10	UCR5BwOS3Gb4uQtxRYRUQ7ng	39634076	DE	Louis Tomlinson - Back to You (Official Video) ft. Bebe Rexha, Digital Farm Animals
+10	UCZU9T1ceaOgwfLRq7OKFU4Q	379672622	DE	In The End (Official Video) - Linkin Park
+10	UCZU9T1ceaOgwfLRq7OKFU4Q	289759290	DE	What I've Done (Official Video) - Linkin Park
+10	UC0C-w0YjGpqDXGB8IHb662A	376048280	DE	Ed Sheeran - Photograph (Official Music Video)
+10	UC20vb-R_px4CguHzzBPhoyQ	301213015	DE	Eminem - Mockingbird
+10	UCsuNF5l7GRF4RboY13z5r2w	18500816	DE	Cali Y El Dandee - La Estrategia
+10	UCwppdrjsBPAZg5_cUwQjfMQ	1346774498	DE	Charlie Puth - We Don't Talk Anymore (feat. Selena Gomez) [Official Video]
+10	UC0C-w0YjGpqDXGB8IHb662A	182759615	DE	Ed Sheeran - Galway Girl [Official Video]
+10	UCXYRdIXDdeZIf816EWAr5zQ	28719675	DE	MACKLEMORE FEAT SKYLAR GREY - GLORIOUS (OFFICIAL MUSIC VIDEO)
+10	UCRzzwLpLiUNIs6YOPe33eMg	595723462	DE	The Chainsmokers & Coldplay - Something Just Like This (Lyric)
+24	UCEdvpU2pFRCVqU6yIPyTpMQ	514781741	DE	Marshmello - Alone (Official Music Video)
+10	UChcn-n6L8vYHzsqOwOubdRQ	32031365	DE	Carlos Vives, Sebastian Yatra - Robarte un Beso (Official Video)
+10	UCC6sWkXNQqyS2r6u6xQ_GdQ	163511936	DE	Jonas Blue - Mama ft. William Singe
+10	UCFzm6oAGFmmZfkrzQ5wATSQ	47633656	DE	Zedd, Alessia Cara - Stay (Official Music Video)
+24	UCT2X19JJaJGUN7mrYuImANQ	21073870	DE	Demian Aditya: Escape Artist Risks His Life During AGT Audition - America's Got Talent 2017
+10	UCrHL_BF5lHyK43BxLU8-vBQ	334985534	DE	J. Balvin, Willy William - Mi Gente (Official Video)
+10	UC0C-w0YjGpqDXGB8IHb662A	163490943	DE	Ed Sheeran - Perfect [Official Audio]
+17	UCRijo3ddMTht_IHyNSNXpNQ	11450366	DE	Nerf Slip and Slide Battle | Dude Perfect
+10	UCANLZYMidaCbLQFWXBC95Jg	740190190	DE	Taylor Swift - You Belong With Me
+17	UCRijo3ddMTht_IHyNSNXpNQ	23682170	DE	Card Throwing Trick Shots | Dude Perfect
+17	UCRijo3ddMTht_IHyNSNXpNQ	56729516	DE	Pickup Basketball Stereotypes
+24	UCWOA1ZGywLbqmigxE4Qlvuw	9112497	DE	Stranger Things | Season 2 Comic Con "Thriller" Trailer [HD] | Netflix
+10	UC0C-w0YjGpqDXGB8IHb662A	210480343	DE	Ed Sheeran - Castle On The Hill [Official Video]
+10	UCVp3nfGRxmMadNDuVbJSk8A	3012444576	DE	Wiz Khalifa - See You Again ft. Charlie Puth [Official Video] Furious 7 Soundtrack
+10	UCEf_Bc-KVd7onSeifS3py9g	39306155	DE	EXO_Ko Ko Bop_Music Video
+17	UCRijo3ddMTht_IHyNSNXpNQ	32691741	DE	Giant Warship Battle | Dude Perfect
+17	UCRijo3ddMTht_IHyNSNXpNQ	32074145	DE	Golf Stereotypes
+24	UCT2X19JJaJGUN7mrYuImANQ	8485262	DE	Johnny Manuel: Guy Covers Whitney Houston's "I Have Nothing" - America's Got Talent 2017
+24	UCT2X19JJaJGUN7mrYuImANQ	30303840	DE	Darci Lynne: 12-Year-Old Singing Ventriloquist Gets Golden Buzzer - America's Got Talent 2017
+23	UCa6vGFO9ty8v5KZJXQxdhaw	45335352	DE	Celebrities Read Mean Tweets #5
+10	UC0C-w0YjGpqDXGB8IHb662A	697109635	DE	Ed Sheeran - Shape Of You [Official Lyric Video]
+10	UC20vb-R_px4CguHzzBPhoyQ	1004573158	DE	Eminem - Not Afraid
+10	UC6MfFxrAK-e4HcgJROvDJDg	338550274	DE	Zara Larsson, MNEK - Never Forget You
+24	UCT2X19JJaJGUN7mrYuImANQ	20756594	DE	Mandy Harvey: Deaf Singer Earns Simon's Golden Buzzer With Original Song - America's Got Talent 2017
+10	UCoUM-UJ7rirJYP8CQ0EIaHA	813021624	DE	Bruno Mars - That’s What I Like [Official Video]
+24	UCvC4D8onUfXzvjTOM-dBfEA	42514585	DE	Thor: Ragnarok Teaser Trailer [HD]
+24	UCT2X19JJaJGUN7mrYuImANQ	28189124	DE	Celine Tam: 9-Year-Old Stuns Crowd with "My Heart Will Go On" - America's Got Talent 2017
+10	UC20vb-R_px4CguHzzBPhoyQ	1367234621	DE	Eminem - Love The Way You Lie ft. Rihanna
+10	UC20vb-R_px4CguHzzBPhoyQ	452667225	DE	Eminem - Without Me
+10	UCgwv23FVv3lqh567yagXfNg	30820665	DE	It's Goin' Down (From "Descendants 2")
+17	UCRijo3ddMTht_IHyNSNXpNQ	24924465	DE	DPHQ2 Tour | Dude Perfect
+23	UCxSz6JVYmzVhtkraHWZC7HQ	5213363	DE	MEETING MY STYLIST!! NAKED WITH CARLOS!
+10	UC9HnKwLco0wfmmHJT4KOjJw	28891144	DE	Kesha - Praying (Official Video)
+10	UCLp8RBhQHu9wSsq62j_Md6A	139809695	DE	Luis Fonsi, Juan Luis Guerra - Llegaste Tú
+10	UC0C-w0YjGpqDXGB8IHb662A	2034958156	DE	Ed Sheeran - Shape of You [Official Video]
+10	UCpx_k19S2vUutWUUM9qmXEg	106643416	DE	Imagine Dragons - Thunder
+10	UCcN-NDV03eHs6oLd1pe2r8w	95833305	DE	Khalid - Location
+10	UCwppdrjsBPAZg5_cUwQjfMQ	321225710	NG	Charlie Puth - Attention [Official Video]
+10	UCZU9T1ceaOgwfLRq7OKFU4Q	140422594	NG	Breaking The Habit (Official Video) - Linkin Park
+10	UCZU9T1ceaOgwfLRq7OKFU4Q	616573123	NG	Numb (Official Video) - Linkin Park
+10	UCR5BwOS3Gb4uQtxRYRUQ7ng	39634076	NG	Louis Tomlinson - Back to You (Official Video) ft. Bebe Rexha, Digital Farm Animals
+10	UCZU9T1ceaOgwfLRq7OKFU4Q	379672622	NG	In The End (Official Video) - Linkin Park
+10	UCZU9T1ceaOgwfLRq7OKFU4Q	289759290	NG	What I've Done (Official Video) - Linkin Park
+10	UC0C-w0YjGpqDXGB8IHb662A	376048280	NG	Ed Sheeran - Photograph (Official Music Video)
+10	UC20vb-R_px4CguHzzBPhoyQ	301213015	NG	Eminem - Mockingbird
+10	UCsuNF5l7GRF4RboY13z5r2w	18500816	NG	Cali Y El Dandee - La Estrategia
+10	UCwppdrjsBPAZg5_cUwQjfMQ	1346774498	NG	Charlie Puth - We Don't Talk Anymore (feat. Selena Gomez) [Official Video]
+10	UC0C-w0YjGpqDXGB8IHb662A	182759615	NG	Ed Sheeran - Galway Girl [Official Video]
+10	UCXYRdIXDdeZIf816EWAr5zQ	28719675	NG	MACKLEMORE FEAT SKYLAR GREY - GLORIOUS (OFFICIAL MUSIC VIDEO)
+10	UCRzzwLpLiUNIs6YOPe33eMg	595723462	NG	The Chainsmokers & Coldplay - Something Just Like This (Lyric)
+24	UCEdvpU2pFRCVqU6yIPyTpMQ	514781741	NG	Marshmello - Alone (Official Music Video)
+10	UChcn-n6L8vYHzsqOwOubdRQ	32031365	NG	Carlos Vives, Sebastian Yatra - Robarte un Beso (Official Video)
+10	UCC6sWkXNQqyS2r6u6xQ_GdQ	163511936	NG	Jonas Blue - Mama ft. William Singe
+10	UCFzm6oAGFmmZfkrzQ5wATSQ	47633656	NG	Zedd, Alessia Cara - Stay (Official Music Video)
+24	UCT2X19JJaJGUN7mrYuImANQ	21073870	NG	Demian Aditya: Escape Artist Risks His Life During AGT Audition - America's Got Talent 2017
+10	UCrHL_BF5lHyK43BxLU8-vBQ	334985534	NG	J. Balvin, Willy William - Mi Gente (Official Video)
+10	UC0C-w0YjGpqDXGB8IHb662A	163490943	NG	Ed Sheeran - Perfect [Official Audio]
+17	UCRijo3ddMTht_IHyNSNXpNQ	11450366	NG	Nerf Slip and Slide Battle | Dude Perfect
+10	UCANLZYMidaCbLQFWXBC95Jg	740190190	NG	Taylor Swift - You Belong With Me
+17	UCRijo3ddMTht_IHyNSNXpNQ	23682170	NG	Card Throwing Trick Shots | Dude Perfect
+17	UCRijo3ddMTht_IHyNSNXpNQ	56729516	NG	Pickup Basketball Stereotypes
+24	UCWOA1ZGywLbqmigxE4Qlvuw	9112497	NG	Stranger Things | Season 2 Comic Con "Thriller" Trailer [HD] | Netflix
+10	UC0C-w0YjGpqDXGB8IHb662A	210480343	NG	Ed Sheeran - Castle On The Hill [Official Video]
+10	UCVp3nfGRxmMadNDuVbJSk8A	3012444576	NG	Wiz Khalifa - See You Again ft. Charlie Puth [Official Video] Furious 7 Soundtrack
+10	UCEf_Bc-KVd7onSeifS3py9g	39306155	NG	EXO_Ko Ko Bop_Music Video
+17	UCRijo3ddMTht_IHyNSNXpNQ	32691741	NG	Giant Warship Battle | Dude Perfect
+17	UCRijo3ddMTht_IHyNSNXpNQ	32074145	NG	Golf Stereotypes
+24	UCT2X19JJaJGUN7mrYuImANQ	8485262	NG	Johnny Manuel: Guy Covers Whitney Houston's "I Have Nothing" - America's Got Talent 2017
+24	UCT2X19JJaJGUN7mrYuImANQ	30303840	NG	Darci Lynne: 12-Year-Old Singing Ventriloquist Gets Golden Buzzer - America's Got Talent 2017
+23	UCa6vGFO9ty8v5KZJXQxdhaw	45335352	NG	Celebrities Read Mean Tweets #5
+10	UC0C-w0YjGpqDXGB8IHb662A	697109635	NG	Ed Sheeran - Shape Of You [Official Lyric Video]
+10	UC20vb-R_px4CguHzzBPhoyQ	1004573158	NG	Eminem - Not Afraid
+10	UC6MfFxrAK-e4HcgJROvDJDg	338550274	NG	Zara Larsson, MNEK - Never Forget You
+24	UCT2X19JJaJGUN7mrYuImANQ	20756594	NG	Mandy Harvey: Deaf Singer Earns Simon's Golden Buzzer With Original Song - America's Got Talent 2017
+10	UCoUM-UJ7rirJYP8CQ0EIaHA	813021624	NG	Bruno Mars - That’s What I Like [Official Video]
+24	UCvC4D8onUfXzvjTOM-dBfEA	42514585	NG	Thor: Ragnarok Teaser Trailer [HD]
+24	UCT2X19JJaJGUN7mrYuImANQ	28189124	NG	Celine Tam: 9-Year-Old Stuns Crowd with "My Heart Will Go On" - America's Got Talent 2017
+10	UC20vb-R_px4CguHzzBPhoyQ	1367234621	NG	Eminem - Love The Way You Lie ft. Rihanna
+10	UC20vb-R_px4CguHzzBPhoyQ	452667225	NG	Eminem - Without Me
+10	UCgwv23FVv3lqh567yagXfNg	30825026	NG	It's Goin' Down (From "Descendants 2")
+17	UCRijo3ddMTht_IHyNSNXpNQ	24924465	NG	DPHQ2 Tour | Dude Perfect
+23	UCxSz6JVYmzVhtkraHWZC7HQ	5213363	NG	MEETING MY STYLIST!! NAKED WITH CARLOS!
+10	UC9HnKwLco0wfmmHJT4KOjJw	28891144	NG	Kesha - Praying (Official Video)
+10	UCLp8RBhQHu9wSsq62j_Md6A	139809695	NG	Luis Fonsi, Juan Luis Guerra - Llegaste Tú
+10	UC0C-w0YjGpqDXGB8IHb662A	2034958156	NG	Ed Sheeran - Shape of You [Official Video]
+10	UCpx_k19S2vUutWUUM9qmXEg	106643416	NG	Imagine Dragons - Thunder
+10	UCcN-NDV03eHs6oLd1pe2r8w	95833305	NG	Khalid - Location
